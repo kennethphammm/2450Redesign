@@ -1,0 +1,242 @@
+.root{
+    -fx-background-color:white;
+    background-color: white;
+}
+
+.scroll-pane{
+    -fx-background-color:black;
+    background-color: black;
+ }
+ .scroll-pane > .viewport { 
+    -fx-background-color: white;
+    background-color: white;
+ }
+.menu-bar{
+    -fx-background-color:white;
+    background-color: white;
+    -fx-font-family: "Canva Sans";
+    font-family: "Canva Sans";
+    -fx-font-size: 17.5 pt;
+    font-size: 17.5 pt;
+    -fx-font-weight: bold;
+    font-weight: bold;
+    -fx-padding: 10px;
+    padding:10px;
+}
+#costtext{
+    -fx-font-family: "Canva Sans";
+    font-family: "Canva Sans";
+    -fx-font-size: 17.5 pt;
+    font-size: 17.5 pt;
+    -fx-font-weight: bold;
+    font-weight: bold;
+    -fx-padding: 5px;
+    padding:5px;
+}
+#cybertext{
+    -fx-font-family: "Canva Sans";
+    font-family: "Canva Sans";
+    -fx-font-size: 18 pt;
+    font-size: 18 pt;
+    -fx-font-weight: bold;
+    font-weight: bold;  
+}
+#cyberMondaytext{
+    -fx-font-family: "Canva Sans";
+    font-family: "Canva Sans";
+    -fx-font-size: 30 pt;
+    font-size: 30 pt;
+    -fx-font-weight: bold;
+    font-weight: bold;  
+}
+#uptext{
+    -fx-font-family: "Canva Sans";
+    font-family: "Canva Sans";
+    -fx-font-size: 15 pt;
+    font-size: 15 pt; 
+}
+#plustext{
+    -fx-font-family: "Canva Sans";
+    font-family: "Canva Sans";
+    -fx-font-size: 15 pt;
+    font-size: 15 pt; 
+    -fx-font-weight: bold;
+    font-weight: bold;  
+    -fx-padding: 10px;
+    padding:10px;
+}
+#Everythingtext{
+    -fx-font-family: "Canva Sans";
+    font-family: "Canva Sans";
+    -fx-font-size: 50 pt;
+    font-size: 50 pt;
+    -fx-font-weight: bold;
+    font-weight: bold;  
+    -fx-padding: -10px;
+    padding:-10px;
+}
+#shopnow{
+    -fx-background-color:#b84c65;
+    background-color: #b84c65;
+    -fx-font-family: "Canva Sans";
+    font-family: "Canva Sans";
+    -fx-font-size: 15 pt;
+    font-size: 15 pt;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    font-weight: bold;
+    -fx-border-color: black;
+    border-color: black;
+    -fx-border-width: 1px; 
+    border-width: 1px; 
+    -fx-padding: 10px;
+    padding:10px;  
+}
+#imageborder{
+    
+    -fx-border-color: #f2f2f1;
+    border-color: #f2f2f1;
+    -fx-border-width: 20px; 
+    border-width: 20px; 
+    -fx-padding: 10px;
+    padding:10px;  
+}
+#smallerimageborder{
+    -fx-background-color:#f2f2f1;
+    background-color: #f2f2f1;
+    -fx-border-color: #f2f2f1;
+    border-color: #f2f2f1;
+    -fx-border-width: 3px; 
+    border-width: 3px; 
+}
+#whitebutton{
+    -fx-border-width: 1px; 
+    border-width: 1px; 
+    -fx-padding: 1px;
+    padding:1px;  
+}
+#heartbutton{
+    -fx-background-color:white;
+    background-color: white;
+    -fx-border-color: white;
+    border-color: white;
+    -fx-border-width: 3px; 
+    border-width: 3px; 
+    -fx-padding: 10px;
+    padding:10px;  
+}
+#circlebutton{
+    -fx-background-color:white;
+    background-color: white;
+    -fx-border-color: white;
+    border-color: white;
+    -fx-border-width: 3px; 
+    border-width: 3px; 
+    -fx-padding: 1px;
+    padding:1px;  
+}
+#priceText{
+    -fx-font-family: "Canva Sans";
+    font-family: "Canva Sans";
+    -fx-font-size: 40 pt;
+    font-size: 40 pt;
+    -fx-font-weight: bold;
+    font-weight: bold;  
+}
+#Itemtext{
+    -fx-font-family: "Canva Sans";
+    font-family: "Canva Sans";
+    -fx-font-size: 25pt;
+    font-size: 25 pt;
+    -fx-font-weight: bold;
+    font-weight: bold;  
+}
+#Rewardstext{
+    -fx-font-family: "Canva Sans";
+    font-family: "Canva Sans";
+    -fx-text-fill: #b84c65;
+    -fx-font-size: 13 pt;
+    font-size: 13 pt;
+    -fx-font-weight: bold;
+    font-weight: bold;  
+    -fx-padding: 10px;
+    padding:10px;
+}
+#savingstext{
+    -fx-font-family: "Canva Sans";
+    font-family: "Canva Sans";
+    -fx-text-fill: #b84c65;
+    -fx-font-size: 20 pt;
+    font-size: 20 pt;
+    -fx-font-weight: bold;
+    font-weight: bold;  
+}
+#rrptext{
+    -fx-font-family: "Canva Sans";
+    font-family: "Canva Sans";
+    -fx-font-size: 20 pt;
+    font-size:  20 pt;
+}
+#bestseller{
+    -fx-font-family: "Canva Sans";
+    font-family: "Canva Sans";
+    -fx-font-size: 15 pt;
+    font-size:  15 pt;
+    -fx-font-weight: bold;
+    font-weight: bold;  
+}
+#wishlistText{
+    -fx-font-family: "Canva Sans";
+    font-family: "Canva Sans";
+    -fx-font-size: 15 pt;
+    font-size:  15 pt;
+}
+#shoppingcarttext{
+    -fx-font-family: "Canva Sans";
+    font-family: "Canva Sans";
+    -fx-font-size: 23 pt;
+    font-size:  22 pt;
+    -fx-font-weight: bold;
+    font-weight: bold;  
+}
+.combo-box{
+    -fx-background-color:white;
+    background-color: white;
+    -fx-font-family: "Canva Sans";
+    font-family: "Canva Sans";
+    -fx-font-size: 15 pt;
+    font-size: 15 pt;
+    -fx-border-color: black;
+    border-color: black;
+    -fx-border-width: 1px; 
+    border-width: 1px; 
+    -fx-padding: 10px;
+    padding:10px; 
+    -fx-width:20px;
+    width: 20px; 
+}
+.tree-view{
+    -fx-padding: 10px;
+    padding:10px; 
+    -fx-font-family: "Canva Sans";
+    font-family: "Canva Sans";
+    -fx-font-size: 17 pt;
+    font-size: 17 pt;
+    -fx-border-color: #d1d4d5;
+    border-color: #d1d4d5;
+    -fx-border-width: 3px; 
+    border-width: 3px; 
+
+}
+#paragraphText{
+    -fx-padding: 30px;
+    padding:30px; 
+    -fx-font-family: "Canva Sans";
+    font-family: "Canva Sans";
+    -fx-font-size: 10 pt;
+    font-size: 10 pt;
+
+}
+
+
+
